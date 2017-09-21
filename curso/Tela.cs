@@ -71,7 +71,7 @@ namespace curso {
             
         }
         public static void MostrarFilme() {
-            Console.Write("Digite o código do filme: ");
+            Console.Write(" Digite o código do filme: ");
             int cod = int.Parse(Console.ReadLine());
             int pos = Program.filmes.FindIndex(x=> x.codigo == cod);
             Console.WriteLine(Program.filmes[pos]);
