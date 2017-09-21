@@ -1,0 +1,7 @@
+C:\Users\preto\source\repos\Cinema\curso\bin\Debug\curso.exe.config
+C:\Users\preto\source\repos\Cinema\curso\bin\Debug\curso.exe
+C:\Users\preto\source\repos\Cinema\curso\bin\Debug\curso.pdb
+C:\Users\preto\source\repos\Cinema\curso\obj\Debug\curso.csprojResolveAssemblyReference.cache
+C:\Users\preto\source\repos\Cinema\curso\obj\Debug\curso.csproj.CoreCompileInputs.cache
+C:\Users\preto\source\repos\Cinema\curso\obj\Debug\curso.exe
+C:\Users\preto\source\repos\Cinema\curso\obj\Debug\curso.pdb
